@@ -1,0 +1,12 @@
+public class Day01_HelloWorld {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hi, I'm Yoga.");
+
+
+        System.out.println("This is Day 1 of my Java journey.");
+
+    }
+
+}
