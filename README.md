@@ -12,7 +12,7 @@ I'm documenting my Java learning journey here.
 ## Progress
 
 - [x] Day 1: Hello World 🌍
-- [ ] Day 2: Variables
+- [x] Day 2: Variables 📝
 - [ ] Day 3: Data Types
 - [ ] Day 4: Operators
 - [ ] Day 5: User Input
