@@ -15,8 +15,7 @@ I'm documenting my Java learning journey here.
 - [x] Day 2: Variables 📝
 - [x] Day 3: Data Types 📚
 - [x] Day 4: Operators ➕➖✖️➗
-- [ ] Day 5: User Input
-- [ ] Day 5: User Input
+- [x] Day 5: User Input ⌨️
 - [ ] Day 6: Type Casting
 - [ ] Day 7: Mini Project
 
